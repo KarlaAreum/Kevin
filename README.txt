@@ -3,11 +3,9 @@ Ollie Free Bootstrap landing page for personal and commercial use. Designed with
 Product Page: https://wwww.devcrud.com/
 
 Credits:
+Edited by : KarlaAreum on github
 
-    Demo Images:
-        Unsplash:       	(https://www.unsplash.com)
-
-    Icons:
+   Icons:
 		Themify Icons: 		(https://themify.me/themify-icons)
 
 	Other:
